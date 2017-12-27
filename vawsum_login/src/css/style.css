@@ -1,0 +1,98 @@
+ body{
+   height:100px;
+ }
+textarea{
+	border: none;
+}
+.page-footer{
+   margin-top:100px;
+}
+
+.sender {
+     background: #ebebe0;
+     padding: 10px;
+     border-radius: 15px 15px 15px 15px;
+}
+.message {
+     background: #76b852;
+     padding: 10px;
+     border-radius: 15px 15px 0px 15px;
+}
+.user-image{
+ width: 8%;
+ float: left;
+ padding : 2px;
+ margin-top: 5px;
+}
+
+.page-header{
+	width:100%;
+	color:black;
+	background: #76b852;
+}
+.border-bottom{
+	border-bottom:1px solid gray;
+	padding: 10px;
+}
+.container{
+	margin-top:10px;
+}
+.box-border{
+	border-top:none;
+}
+ .nav-body {
+    background: #76b852;
+    background: -webkit-linear-gradient(right, #76b852, #8DC26F);
+    background: -moz-linear-gradient(right, #76b852, #8DC26F);
+    background: -o-linear-gradient(right, #76b852, #8DC26F);
+    background: linear-gradient(to left, #76b852, #8DC26F);
+    font-family: "Roboto", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.bubble-notify {
+  font-size:6px;
+  font-weight: bold;
+  color: white;
+  background: #b8111a;
+  width:8px;
+  box-shadow: -2px 2px 3px -1px #aaaaaa;
+  padding: 2px 4px;
+  border-radius: 10px;
+  position: relative;
+  top: -15px;
+  left: -10px;
+}
+.icon-box{
+	width: 45px;
+  height: 45px;
+	border: 1px solid gray;
+	padding: 5px 5px 5px 5px;
+	border-radius: 45px;
+}
+.card {
+	padding: 10px;
+}
+.card .card-image img {
+    display: inline-block;
+    border-radius: 2px 2px 0 0;
+    width: 75px;
+    padding-right: 10px;
+}
+.card .card-action{
+	padding: 5px;
+}
+span.badge {
+    font-weight: 300;
+    font-size: 0.8rem;
+    float: left;
+    padding: 0px 30px 0px 30px;
+    color: #c2c2a3;
+    border: 1px solid #d6d6c2;
+    background-color: #fff;
+    border-radius: 10px;
+
+}
+textarea{
+	border: none;
+}
